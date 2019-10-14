@@ -1,4 +1,4 @@
-package com.lliuhongyin.mybatislearn;
+package com.liuhongyin.mybatislearn;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
